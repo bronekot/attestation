@@ -7,3 +7,5 @@ db.sqlite3
 TechDoc
 poetry.lock
 TechDoc.txt
+static/
+staticfiles/
